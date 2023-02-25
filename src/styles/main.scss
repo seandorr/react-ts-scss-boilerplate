@@ -1,0 +1,7 @@
+@import "./colors.module";
+@import "./reset";
+
+body {
+  color: $light-color;
+  background-color: $dark-color;
+}
